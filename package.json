@@ -59,7 +59,7 @@
     "loader.js": "^4.7.0",
     "npm-run-all": "^4.1.5",
     "qunit": "^2.11.3",
-    "qunit-dom": "1.6.0-beta.1",
+    "qunit-dom": "https://github.com/simplabs/qunit-dom#e654d0e1c10fdb2b96f0255775ad66a2c0b24193",
     "typescript": "^4.0.5"
   },
   "engines": {
